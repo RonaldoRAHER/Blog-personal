@@ -1,0 +1,132 @@
+@charset "UTF-8";
+
+body{
+	
+	background-size: 100vw 100vh;
+	margin:0;
+	background-repeat: no-repeat ;
+	background-attachment: fixed;
+	background-image: "imagenes\Logo.png"; 
+	background-position: center;
+	margin: 0;
+	
+}
+h1{
+
+	padding: 10px;
+	font-family: Poppins;
+	background-position: center;
+	font-weight: 1.5rem;
+	align-content: center;
+	text-align: center;
+	box-sizing: border-box;
+
+
+}
+.enc1{
+	padding-bottom: 15px;
+	padding-right: 250px;
+	padding-left:250px;
+	 	background-color: rgba( 53, 235, 0  ,0.5);   
+
+
+}
+
+
+
+table{
+
+	table-layout: auto;
+	margin: auto;
+min-width: 820px;
+
+
+
+}
+
+
+a{
+
+	text-decoration: none;
+	font-color:none;
+}
+.celda1{
+
+padding: 25px;
+ font-family: Poppins;
+font-weight: 1.5rem;
+text-align: center;
+border-style: none;
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-color: rgba(154, 173, 178,0.5);
+
+}
+li{
+
+text-decoration: none;
+list-style-type: none;
+
+}
+h2{
+
+	padding-top: 20px;
+	font-weight: 2.5rem;
+	text-align: center;
+	background-attachment: fixed;
+	background-color: ;
+	font-family: Poppins;
+	font-size: 1.5rem;
+
+
+}
+
+.perfilimg{
+	opacity: 0.8;
+
+
+}
+section{
+
+
+
+}
+.intro{
+
+	padding-bottom: 10px;
+	padding-top: 20px;
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 30px;
+
+
+
+
+}
+p{
+
+
+
+}
+.usuario{
+	text-align: justify;
+	font-family: IBM Plex Serif;
+	font-weight: 3rem;
+	font-size: 1.5rem;
+
+}
+.celda2 {
+
+	padding-left: ;
+	padding-top: 20px;
+	padding-bottom: 35px;
+
+
+
+}
+@media(max-width:500px){
+
+	div{
+		width:100%;
+	}
+}

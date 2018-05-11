@@ -1,0 +1,72 @@
+@charset "UTF-8";
+
+
+
+body{
+
+border-image-source: ("C:\Users\YOMERO\Desktop\Elearn\ProyectoPERSONAL\imagenes\form3.jpg")
+background-size: 100vw 100vh;
+background-attachment: fixed;
+margin: 0;
+background-repeat: no-repeat;
+width: 100%;
+background-width: 100%;
+}
+form{
+
+	width: 820px;
+	margin: auto;
+	padding: 20px;
+	background: rgba(250, 255, 142 , 0.9);
+	margin-top: 32px;
+	margin-color: #F4D03F;
+	border-radius: 10px;
+	box-sizing: border-box;
+
+
+}
+.nepe{
+	
+}
+h2{
+	text-align: center;
+
+	color: #970000 ;
+
+	padding: 10px;
+
+	font-size: 2rem;
+
+	font font-family: monospace;
+
+	box-sizing: border-box;
+	margin-bottom: 25px;
+
+}
+
+input,textarea{
+
+	text-align: center;
+	padding: 10px;
+	width: 100%;
+	
+	min-width: 15%;
+	
+	border-radius: 15px;
+	margin-bottom: 20px;
+	box-sizing: border-box;
+
+}
+textarea{
+
+
+	min-height: 150px;
+	max-height: 250px;
+	max-width:  100%;
+}
+@media(max-width:820px){
+
+	form{
+		width:100%;
+	}
+}

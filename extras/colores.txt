@@ -1,0 +1,57 @@
+Inicio color de encabezado=
+ --HEX:
+ #F60000  
+RGB:
+ 246, 0, 0  
+HSL:
+ 0, 100%, 48%
+Letra:
+--HEX
+ #755B5A  
+RGB
+ 117, 91, 90  
+HSL
+ 2, 23%, 40%
+
+detalles:
+--HEX
+ #EDDF0A  
+RGB
+ 237, 223, 10  
+HSL
+ 56, 96%, 48%
+---HEX
+ #2EF5F5  
+RGB
+ 46, 245, 245  
+HSL
+ 180, 81%, 57%
+
+--HEX
+ #1FCEF9  
+RGB
+ 31, 206, 249  
+HSL
+ 192, 87%, 55%
+
+-- 
+HEX
+ #9AADB2  
+RGB
+ 154, 173, 178  
+HSL
+ 192, 13%, 65%
+
+--HEX
+ #FFAC23  
+RGB
+ 255, 172, 35  
+HSL
+ 37, 86%, 57%
+
+--HEX
+ #35EB00  
+RGB
+ 53, 235, 0  
+HSL
+ 106, 100%, 46%
